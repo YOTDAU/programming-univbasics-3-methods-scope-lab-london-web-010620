@@ -9,4 +9,9 @@ def toadstool
 end
 
 def link
-  status = "It's Dangerous To Go Alone! Take This."
+  zelda = "It's Dangerous To Go Alone! Take This."
+  puts zelda
+end
+
+def any_phase
+  phase = "Do A Barrell Roll"
