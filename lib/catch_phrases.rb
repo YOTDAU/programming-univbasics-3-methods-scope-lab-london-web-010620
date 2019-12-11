@@ -13,5 +13,6 @@ def link
   puts zelda
 end
 
-def any_phase
-  phase = "Do A Barrell Roll"
+def any_phrase
+  phrase = "Do A Barrell Roll"
+  puts phrase
